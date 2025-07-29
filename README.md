@@ -37,8 +37,10 @@ The dataset used in this project includes the following columns:
 - 📈 **Average Global Inflation Rate**
 - 🧾 **Top 10 Countries by Inflation Rate**
 - 🧮 **Adjusted vs Actual Inflation Rate**
-- 🌍 **Inflation Rate by Continent / Income Group**
-- 📆 **Monthly & Yearly Inflation Trends**
+- 🌍 **Inflation Rate by Continent**
+- 📆 **Yearly Inflation Trends**
+- 🔄 **Distribution of Countries by Inflation Band**
+- 🔍 **Scatter Plot: Actual vs Adjusted Inflation (for outlier detection)**
 
 ---
 
