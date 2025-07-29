@@ -75,7 +75,7 @@ The dataset used in this project includes the following columns:
 
 ## 📌 Dashboard Snapshots
 
-![Sample Output]
+![Sample Output](https://github.com/srishti-cmd/Global_Inflation_Analysis/blob/main/Screenshot%202025-07-29%20003529.png)
 
 ---
 
