@@ -73,9 +73,9 @@ The dataset used in this project includes the following columns:
 
 ---
 
-## 📌 Sample Dashboard Snapshots
+## 📌 Dashboard Snapshots
 
-> *(Insert screenshots here if publishing to GitHub or a portfolio)*
+![Sample Output]
 
 ---
 
